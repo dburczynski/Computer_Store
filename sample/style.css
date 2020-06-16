@@ -1,0 +1,58 @@
+#logoPane {
+    -fx-background-image: url("/sample/Graphics/logo.png");
+}
+
+#emptyButton {
+    -fx-background-color: #14648c;
+    -fx-border-color: #14648c;
+}
+
+#button1 {
+
+    -fx-background-image: url("/sample/Graphics/procesory.png");
+}
+#button2 {
+
+    -fx-background-image: url("/sample/Graphics/myszki.png");
+}
+#button3 {
+
+    -fx-background-image: url("/sample/Graphics/monitory.png");
+}
+#wrocButton {
+    -fx-background-color: red;
+}
+#mailButton {
+    -fx-background-image: url("/sample/Graphics/koperta.png");
+}
+
+#fakturaButton {
+    -fx-background-image: url("/sample/Graphics/faktura.png");
+}
+#myszka1 {
+    -fx-background-image: url("/sample/Graphics/myszka1.png");
+}
+#myszka2 {
+    -fx-background-image: url("/sample/Graphics/myszka2.png");
+}
+#myszka3 {
+    -fx-background-image: url("/sample/Graphics/myszka3.png");
+}
+#procesor1 {
+    -fx-background-image: url("/sample/Graphics/procesor1.png");
+}
+#procesor2 {
+    -fx-background-image: url("/sample/Graphics/procesor2.png");
+}
+#procesor3 {
+    -fx-background-image: url("/sample/Graphics/procesor3.png");
+}
+#monitor1 {
+    -fx-background-image: url("/sample/Graphics/monitor1.png");
+}
+#monitor2 {
+    -fx-background-image: url("/sample/Graphics/monitor2.png");
+}
+#monitor3 {
+    -fx-background-image: url("/sample/Graphics/monitor3.png");
+}
